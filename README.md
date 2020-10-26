@@ -10,6 +10,10 @@ free lifetime updates, new 'episodes' & more, s, s & s Coming to a local github 
 #controls
 
 wasd = move
+
 mouse = look
-shift = crouch
+
+ctrl = crouch
+
 space = jump
+
